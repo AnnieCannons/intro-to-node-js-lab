@@ -26,4 +26,3 @@ function calculateDogAge(humanYears) {
   } else {
     console.log(dogAgeSentence(dogName, humanAge));
   }
-  
